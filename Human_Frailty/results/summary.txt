@@ -1,0 +1,4 @@
+ X.Height..Inches..Weight..Pounds..Age.Grip.Strength.Frailty
+ Length:10                                                  
+ Class :character                                           
+ Mode  :character                                           
